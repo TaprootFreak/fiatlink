@@ -150,7 +150,6 @@ Response:
 
 `payment_info` returns the payment processing details
 
-
 `expires_on` until when the payment needs to arrive for the order to be honored
 
 ### orders 
